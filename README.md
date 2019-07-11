@@ -1,3 +1,3 @@
 # ToDoListApp
-using html, css, bootsrap and js
-list to add and delete data
+Using html, css, bootsrap and js..
+List to add and delete data
